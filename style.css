@@ -1,0 +1,57 @@
+.first {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+    background-image: linear-gradient(to bottom top, gray and white);
+
+}
+
+.button {
+    background-color: tomato;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: grab;
+    border-radius: 8px;
+}
+
+.second {
+    text-align: center;
+}
+
+.button-2 {
+    background-color: rgb(224, 217, 217);
+    border: none;
+    color: rgb(58, 58, 59);
+    font-weight: 700;
+    padding: 45px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 6px 7px;
+    cursor: auto;
+    border-radius: 8px;
+}
+
+#selected {
+    background-color: rgb(245, 161, 161);
+    border: 2px solid rgb(92, 2, 2);
+    color: rgb(90, 3, 3);
+    padding: 45px 36px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 6px 7px;
+    cursor: auto;
+    border-radius: 8px;
+}
