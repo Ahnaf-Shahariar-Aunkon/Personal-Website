@@ -13,7 +13,9 @@ body {
     background-size: cover;
     color: aliceblue;
     text-align: center;
-
+    padding-top: 30px;
+    padding-bottom: 160px;
+    margin: auto;
 }
 
 .button {
