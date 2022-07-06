@@ -74,7 +74,8 @@ body {
 }
 
 .side-by-side {
-    width: 80%;
+    width: 100%;
+    padding: 20px;
 }
 
 .box {
