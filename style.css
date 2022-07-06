@@ -1,3 +1,7 @@
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
 .first {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
