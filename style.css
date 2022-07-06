@@ -8,7 +8,7 @@ body {
     background-size: cover;
     color: aliceblue;
     text-align: center;
-    background-image: linear-gradient(to bottom top, gray and white);
+
 
 }
 
@@ -58,4 +58,13 @@ body {
     margin: 6px 7px;
     cursor: auto;
     border-radius: 8px;
+}
+
+section {
+    display: flex;
+    padding: 4%;
+}
+
+.side-by-side {
+    width: 80%;
 }
